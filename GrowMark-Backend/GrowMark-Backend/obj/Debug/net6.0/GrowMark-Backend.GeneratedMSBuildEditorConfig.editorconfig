@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GrowMark_Backend
+build_property.RootNamespace = GrowMark_Backend
+build_property.ProjectDir = /Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/FiorelloAndGrowMark/GrowMark-Backend/GrowMark-Backend/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/FiorelloAndGrowMark/GrowMark-Backend/GrowMark-Backend
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/FiorelloAndGrowMark/GrowMark-Backend/GrowMark-Backend/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWJvdXQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/FiorelloAndGrowMark/GrowMark-Backend/GrowMark-Backend/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/FiorelloAndGrowMark/GrowMark-Backend/GrowMark-Backend/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/FiorelloAndGrowMark/GrowMark-Backend/GrowMark-Backend/Views/Member/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVtYmVyL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/FiorelloAndGrowMark/GrowMark-Backend/GrowMark-Backend/Views/ProjectDetail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvamVjdERldGFpbC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/FiorelloAndGrowMark/GrowMark-Backend/GrowMark-Backend/Views/Projects/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvamVjdHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/FiorelloAndGrowMark/GrowMark-Backend/GrowMark-Backend/Views/Services/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VydmljZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/FiorelloAndGrowMark/GrowMark-Backend/GrowMark-Backend/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/FiorelloAndGrowMark/GrowMark-Backend/GrowMark-Backend/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/FiorelloAndGrowMark/GrowMark-Backend/GrowMark-Backend/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

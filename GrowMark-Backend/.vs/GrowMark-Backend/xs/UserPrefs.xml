@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{836A3A8B-477C-495F-BEB2-D07497D65568}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GrowMark-Backend/Views/Member/Index.cshtml">
+    <Files>
+      <File FileName="GrowMark-Backend/Program.cs" Line="14" Column="27" />
+      <File FileName="GrowMark-Backend/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="GrowMark-Backend/Controllers/HomeController.cs" Line="8" Column="40" />
+      <File FileName="GrowMark-Backend/Models/Slider.cs" Line="6" Column="3" />
+      <File FileName="GrowMark-Backend/Models/Features.cs" Line="7" Column="42" />
+      <File FileName="GrowMark-Backend/Data/AppDbContext.cs" Line="14" Column="40" />
+      <File FileName="GrowMark-Backend/Models/Services.cs" Line="8" Column="35" />
+      <File FileName="GrowMark-Backend/ViewModels/HomeVM.cs" Line="1" Column="1" />
+      <File FileName="GrowMark-Backend/Controllers/MemberController.cs" Line="1" Column="1" />
+      <File FileName="GrowMark-Backend/Views/Member/Index.cshtml" Line="120" Column="1" />
+      <File FileName="GrowMark-Backend/Views/Shared/_Layout.cshtml" Line="26" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GrowMark-Backend" expanded="True">
+            <Node name="GrowMark-Backend" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="About" expanded="True" />
+                <Node name="Contact" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Member" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Projects" expanded="True" />
+                <Node name="Services" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GrowMark-Backend PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

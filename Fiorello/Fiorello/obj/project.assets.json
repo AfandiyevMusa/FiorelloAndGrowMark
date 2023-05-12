@@ -2019,11 +2019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/One to Many/Fiorello/Fiorello/Fiorello.csproj",
+      "projectUniqueName": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/FiorelloAndGrowMark/Fiorello/Fiorello/Fiorello.csproj",
       "projectName": "Fiorello",
-      "projectPath": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/One to Many/Fiorello/Fiorello/Fiorello.csproj",
+      "projectPath": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/FiorelloAndGrowMark/Fiorello/Fiorello/Fiorello.csproj",
       "packagesPath": "/Users/afandiyevmusa/.nuget/packages/",
-      "outputPath": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/One to Many/Fiorello/Fiorello/obj/",
+      "outputPath": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/HW/FiorelloAndGrowMark/Fiorello/Fiorello/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/afandiyevmusa/.nuget/NuGet/NuGet.Config"
